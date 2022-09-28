@@ -1,1 +1,1 @@
-# Japanese-Sumo-Webscraping
+# Japanese-Sumo-Data-Webscraping
